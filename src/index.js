@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <p>Welcome to PWA-Editor</p>
+      <small>v0.1</small>
     </div>
   );
 }
